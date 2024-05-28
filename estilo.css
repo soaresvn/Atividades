@@ -1,0 +1,17 @@
+.bottom{
+    max-width: 768px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bottom a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    background-color: brown;
+    font-size: 50px;
+    border-radius: 20px;
+}
+.bottom a:hover{
+    background-color: rgb(212, 0, 255);
+}
